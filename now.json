@@ -3,7 +3,7 @@
     "api/results.php": {
       "runtime": "now-php@0.0.7"
     },
-    "api/index.php": {
+    "api/ex.php": {
       "runtime": "now-php@0.0.7"
     }
   }
